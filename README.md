@@ -2,7 +2,7 @@
 
 ## 📌 Introduction
 
-chatting application will provide users with a seamless platform to exchange messages in real-time, supporting individuals. With user-friendly interfaces and robust security features, it aims to enhance communication experiences while prioritizing privacy and reliability.
+chatting application will provide users with a seamless platform to exchange messages in real-time, supporting individuals and user-friendly interfaces.
 
 ## 💻 Languages/libraries used in this project
 
